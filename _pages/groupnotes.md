@@ -12,5 +12,5 @@ nav_order: 4
   - [exercises and datasets](/blog01/groupnotes/Pattern_Recognition_Exercises/)
  
 ### Spectroscopy and hyperspectral image analysis:
-  - [exercises and datasets](/blog01/groupnotes/Spectroscopy_Exercises.md/)
+  - [exercises and datasets](/blog01/groupnotes/Spectroscopy_Exercises/)
  
